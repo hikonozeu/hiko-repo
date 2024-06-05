@@ -8,7 +8,6 @@ on:
           - info
           - warn
           - error
-          - fatal
 jobs:
   run:
     runs-on: ubuntu-latest
