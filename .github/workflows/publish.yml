@@ -12,7 +12,7 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     permissions:
-      packges: write
+      packages: write
       contents: read
     steps:
       - uses: actions/checkout@v4
